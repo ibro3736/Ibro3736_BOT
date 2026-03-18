@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheCubicSMP.aternos.me",
+    "ip": "boxador.aternos.host:32223",
     "port": 32223,
     "version": "",
     "try-creative": false
